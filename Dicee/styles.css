@@ -1,0 +1,58 @@
+body{
+     background-color: rgb(48, 48, 121);                
+}
+
+h1{
+   text-align: center;
+   font-size: 10rem;
+   font-family: 'Playball', cursive;
+   color: rgb(12, 179, 123);
+}
+
+
+.para1,.para2{
+   color: rgb(12, 179, 123);
+   font-size: 5rem;
+   font-family: 'Great Vibes', cursive;
+   
+}
+
+.para1{
+   margin-left: 400px;
+}
+
+.para2{
+   margin-left:370%;
+}
+
+.container{
+   height: 300px;
+   width: 100%;
+   text-align: center;
+   margin: auto;
+   display: block;
+
+}
+
+.dice{
+   margin: auto;
+   float: left;
+   align-items: center;
+   height: auto;
+   width: 200px;
+}
+
+.img1{
+    height: 600px;  
+    width: 600px; 
+    margin-left: 150px;              
+}
+
+.img2{
+     height: 600px;
+     width: 600px;
+     margin-left: 250% ;                 
+}
+
+
+
